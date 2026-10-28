@@ -1,0 +1,401 @@
+id_pedido,zona,tipo_comida,franja,tipo_dia,lluvia,distancia_km,tiempo_entrega_min,monto,propina,calificacion
+D-0001,Costa,Pizza,Cena,Fin de semana,No,2.2,63,6700,0,3
+D-0002,Costa,Hamburguesa,Cena,Semana,No,3.4,28,12400,0,5
+D-0003,Norte,Pizza,Merienda,Semana,No,0.9,10,10600,800,5
+D-0004,Centro,Hamburguesa,Almuerzo,Fin de semana,No,7.5,54,10700,0,4
+D-0005,Centro,Pizza,Merienda,Semana,Sí,2.0,34,11800,700,5
+D-0006,Norte,Sushi,Cena,Semana,No,2.9,30,11100,700,5
+D-0007,Norte,Sushi,Cena,Semana,No,2.9,36,17300,1900,5
+D-0008,Centro,Pizza,Cena,Semana,No,9.4,55,12900,0,3
+D-0009,Centro,Vegano,Almuerzo,Semana,No,1.6,19,12300,1400,5
+D-0010,Costa,Pizza,Almuerzo,Semana,No,0.3,19,6400,600,5
+D-0011,Sur,Pizza,Cena,Fin de semana,Sí,5.9,53,5600,0,3
+D-0012,Centro,Hamburguesa,Almuerzo,Fin de semana,Sí,2.3,35,6700,500,5
+D-0013,Norte,Hamburguesa,Cena,Semana,No,2.6,16,10000,500,5
+D-0014,Costa,Pizza,Cena,Semana,Sí,5.9,49,8500,900,5
+D-0015,Costa,Sushi,Cena,Semana,No,1.7,22,16300,900,5
+D-0016,Costa,Sushi,Merienda,Semana,Sí,2.4,28,10300,700,5
+D-0017,Norte,Pizza,Almuerzo,Fin de semana,No,6.2,35,11600,1000,5
+D-0018,Norte,Pizza,Cena,Semana,No,4.3,32,7200,700,4
+D-0019,Sur,Hamburguesa,Merienda,Fin de semana,No,0.5,21,11900,900,5
+D-0020,Centro,Pizza,Cena,Fin de semana,No,2.6,35,8900,600,5
+D-0021,Sur,Vegano,Almuerzo,Semana,No,5.6,77,4100,500,4
+D-0022,Centro,Vegano,Merienda,Semana,Sí,3.1,35,9400,700,5
+D-0023,Costa,Sushi,Cena,Semana,Sí,2.9,40,11500,0,5
+D-0024,Centro,Hamburguesa,Cena,Fin de semana,No,3.9,39,6600,400,4
+D-0025,Sur,Sushi,Cena,Fin de semana,No,1.7,27,14300,0,4
+D-0026,Costa,Hamburguesa,Cena,Semana,No,4.0,31,11700,900,5
+D-0027,Centro,Hamburguesa,Almuerzo,Semana,No,3.8,26,10900,900,5
+D-0028,Costa,Pizza,Cena,Fin de semana,No,2.9,29,13700,800,5
+D-0029,Costa,Pizza,Almuerzo,Semana,Sí,0.4,15,9000,800,5
+D-0030,Centro,Sushi,Almuerzo,Fin de semana,No,3.1,29,8600,0,5
+D-0031,Sur,Pizza,Cena,Fin de semana,No,1.9,19,7600,0,5
+D-0032,Centro,Vegano,Almuerzo,Semana,No,2.4,17,7600,0,5
+D-0033,Norte,Hamburguesa,Almuerzo,Semana,No,1.8,16,6900,400,5
+D-0034,Norte,Hamburguesa,Merienda,Semana,No,3.6,30,18900,1100,5
+D-0035,Centro,Vegano,Almuerzo,Semana,No,1.1,21,12700,700,5
+D-0036,Norte,Pizza,Cena,Fin de semana,No,3.1,36,6700,600,5
+D-0037,Costa,Pizza,Almuerzo,Semana,Sí,2.8,30,12900,900,5
+D-0038,Norte,Pizza,Almuerzo,Fin de semana,No,3.6,29,8200,500,5
+D-0039,Centro,Hamburguesa,Cena,Fin de semana,No,3.6,41,5700,700,4
+D-0040,Sur,Pizza,Cena,Semana,No,1.4,26,12800,1400,5
+D-0041,Norte,Pizza,Cena,Fin de semana,No,2.6,29,7800,900,5
+D-0042,Sur,Sushi,Cena,Semana,No,0.7,20,15600,1800,5
+D-0043,Centro,Hamburguesa,Cena,Semana,Sí,4.1,42,16900,0,5
+D-0044,Norte,Pizza,Almuerzo,Semana,No,4.0,33,6600,700,5
+D-0045,Sur,Pizza,Almuerzo,Semana,No,1.9,19,12300,1400,5
+D-0046,Norte,Hamburguesa,Cena,Semana,Sí,1.2,35,7700,700,4
+D-0047,Norte,Vegano,Merienda,Fin de semana,No,6.3,48,7200,600,4
+D-0048,Centro,Pizza,Almuerzo,Semana,No,3.8,26,8300,0,5
+D-0049,Centro,Sushi,Cena,Semana,Sí,7.4,53,15800,0,3
+D-0050,Costa,Sushi,Almuerzo,Fin de semana,Sí,4.6,37,15900,1400,5
+D-0051,Centro,Hamburguesa,Almuerzo,Semana,No,4.6,27,5400,300,5
+D-0052,Costa,Hamburguesa,Cena,Semana,No,1.3,24,10900,1100,5
+D-0053,Norte,Hamburguesa,Cena,Semana,No,7.7,56,6600,0,4
+D-0054,Costa,Pizza,Almuerzo,Fin de semana,No,4.9,43,9900,0,4
+D-0055,Norte,Hamburguesa,Cena,Semana,No,2.7,29,9000,0,4
+D-0056,Costa,Vegano,Almuerzo,Semana,No,9.9,52,8500,500,5
+D-0057,Sur,Sushi,Cena,Fin de semana,No,2.1,27,17900,1000,5
+D-0058,Centro,Hamburguesa,Merienda,Semana,No,4.1,31,6800,0,5
+D-0059,Sur,Hamburguesa,Merienda,Semana,Sí,2.9,28,6400,500,5
+D-0060,Sur,Vegano,Almuerzo,Semana,No,1.0,20,6500,800,5
+D-0061,Sur,Pizza,Merienda,Semana,No,1.6,18,5100,600,5
+D-0062,Norte,Pizza,Almuerzo,Semana,No,3.5,28,7300,600,5
+D-0063,Centro,Vegano,Cena,Fin de semana,No,0.3,20,5200,0,5
+D-0064,Sur,Sushi,Almuerzo,Semana,No,2.8,33,13400,700,4
+D-0065,Centro,Sushi,Cena,Fin de semana,Sí,2.1,41,12700,1100,5
+D-0066,Sur,Hamburguesa,Merienda,Fin de semana,Sí,0.6,25,13900,1700,5
+D-0067,Sur,Pizza,Cena,Fin de semana,No,0.3,19,6300,300,5
+D-0068,Norte,Hamburguesa,Cena,Semana,No,1.4,26,12000,800,5
+D-0069,Sur,Hamburguesa,Cena,Semana,No,0.5,54,9500,0,3
+D-0070,Centro,Pizza,Almuerzo,Semana,No,5.3,30,9800,0,5
+D-0071,Norte,Hamburguesa,Almuerzo,Semana,Sí,1.6,25,7000,0,5
+D-0072,Sur,Vegano,Cena,Semana,No,0.7,29,7800,700,5
+D-0073,Norte,Pizza,Cena,Fin de semana,No,1.4,28,8100,600,4
+D-0074,Sur,Pizza,Almuerzo,Semana,No,2.9,23,8800,1000,5
+D-0075,Sur,Pizza,Merienda,Semana,No,0.9,19,10600,800,5
+D-0076,Costa,Sushi,Merienda,Fin de semana,No,2.3,34,12800,1300,5
+D-0077,Costa,Vegano,Almuerzo,Semana,No,2.0,19,15900,800,5
+D-0078,Sur,Pizza,Cena,Semana,Sí,3.3,35,14900,1700,4
+D-0079,Costa,Sushi,Merienda,Semana,Sí,4.2,35,7100,500,4
+D-0080,Centro,Pizza,Merienda,Semana,Sí,2.2,28,9300,900,5
+D-0081,Sur,Hamburguesa,Cena,Semana,No,1.2,28,8200,0,5
+D-0082,Costa,Sushi,Cena,Semana,Sí,1.2,30,11100,900,5
+D-0083,Norte,Pizza,Almuerzo,Semana,Sí,1.0,13,4000,0,5
+D-0084,Sur,Hamburguesa,Cena,Semana,No,6.3,46,5000,0,4
+D-0085,Norte,Vegano,Cena,Fin de semana,Sí,2.3,39,9400,0,5
+D-0086,Costa,Hamburguesa,Cena,Semana,No,0.4,22,10400,1100,5
+D-0087,Norte,Sushi,Almuerzo,Semana,Sí,2.4,30,17100,1500,5
+D-0088,Norte,Hamburguesa,Cena,Fin de semana,No,5.2,43,9900,0,5
+D-0089,Centro,Vegano,Almuerzo,Fin de semana,No,0.6,21,9300,0,5
+D-0090,Norte,Hamburguesa,Almuerzo,Fin de semana,No,2.4,60,11500,1200,4
+D-0091,Sur,Sushi,Merienda,Fin de semana,No,0.9,13,17300,1700,5
+D-0092,Costa,Pizza,Merienda,Semana,No,7.3,42,12600,900,4
+D-0093,Costa,Pizza,Cena,Semana,No,5.2,34,8600,0,5
+D-0094,Norte,Pizza,Cena,Semana,No,1.8,33,7400,0,5
+D-0095,Costa,Hamburguesa,Cena,Semana,No,2.6,28,5400,600,5
+D-0096,Centro,Hamburguesa,Merienda,Semana,No,1.9,27,13500,700,5
+D-0097,Costa,Pizza,Cena,Fin de semana,Sí,4.8,41,7500,600,5
+D-0098,Centro,Hamburguesa,Almuerzo,Fin de semana,No,4.1,28,6200,400,5
+D-0099,Norte,Sushi,Cena,Semana,No,3.7,35,7900,0,4
+D-0100,Centro,Hamburguesa,Cena,Fin de semana,No,3.8,30,10100,600,5
+D-0101,Costa,Pizza,Cena,Semana,No,1.1,19,5900,400,5
+D-0102,Costa,Sushi,Cena,Fin de semana,No,2.3,22,15300,1800,5
+D-0103,Centro,Sushi,Cena,Fin de semana,Sí,1.3,35,16300,1700,5
+D-0104,Norte,Hamburguesa,Almuerzo,Fin de semana,Sí,8.5,50,13000,0,4
+D-0105,Centro,Hamburguesa,Cena,Semana,Sí,1.6,29,6800,600,5
+D-0106,Norte,Pizza,Cena,Semana,No,1.4,15,5000,400,5
+D-0107,Sur,Sushi,Merienda,Semana,No,4.7,34,19500,1700,5
+D-0108,Centro,Hamburguesa,Almuerzo,Semana,No,2.7,28,9200,600,5
+D-0109,Costa,Pizza,Cena,Semana,Sí,4.0,41,7400,600,5
+D-0110,Centro,Vegano,Almuerzo,Fin de semana,No,2.6,23,9900,800,5
+D-0111,Norte,Pizza,Almuerzo,Semana,No,2.9,26,15800,900,5
+D-0112,Centro,Pizza,Cena,Semana,Sí,3.1,41,9100,1100,4
+D-0113,Centro,Hamburguesa,Cena,Semana,No,1.2,26,7000,400,4
+D-0114,Centro,Hamburguesa,Almuerzo,Semana,No,4.4,36,8300,600,5
+D-0115,Norte,Hamburguesa,Almuerzo,Semana,No,2.7,32,10100,700,4
+D-0116,Costa,Hamburguesa,Cena,Fin de semana,No,6.8,51,9500,0,5
+D-0117,Costa,Sushi,Cena,Semana,No,2.7,27,16600,1800,5
+D-0118,Norte,Pizza,Cena,Semana,No,0.8,18,9900,1000,5
+D-0119,Norte,Vegano,Cena,Semana,Sí,10.6,68,7000,0,3
+D-0120,Sur,Hamburguesa,Cena,Semana,No,6.7,44,10200,1100,5
+D-0121,Costa,Hamburguesa,Cena,Fin de semana,No,6.6,46,11600,0,5
+D-0122,Norte,Hamburguesa,Almuerzo,Semana,No,2.8,25,10400,1100,5
+D-0123,Sur,Pizza,Merienda,Semana,No,5.6,45,8800,0,4
+D-0124,Norte,Sushi,Cena,Semana,No,3.3,27,14600,1200,5
+D-0125,Sur,Hamburguesa,Cena,Semana,No,1.3,49,9000,600,5
+D-0126,Sur,Pizza,Cena,Semana,No,2.4,26,9200,0,5
+D-0127,Norte,Hamburguesa,Almuerzo,Semana,No,0.9,11,5200,0,5
+D-0128,Sur,Hamburguesa,Cena,Fin de semana,Sí,0.3,33,8200,800,5
+D-0129,Sur,Hamburguesa,Almuerzo,Semana,No,3.9,28,12400,1100,5
+D-0130,Centro,Pizza,Merienda,Fin de semana,No,2.9,64,8200,0,3
+D-0131,Centro,Vegano,Cena,Semana,Sí,0.7,19,8500,900,5
+D-0132,Centro,Pizza,Cena,Semana,No,3.8,36,10800,800,4
+D-0133,Centro,Sushi,Cena,Fin de semana,No,4.2,38,15500,1800,4
+D-0134,Centro,Hamburguesa,Cena,Fin de semana,No,7.4,46,6900,700,5
+D-0135,Centro,Hamburguesa,Almuerzo,Semana,Sí,3.9,38,9000,0,5
+D-0136,Centro,Sushi,Almuerzo,Semana,No,1.3,22,25200,1800,4
+D-0137,Sur,Pizza,Cena,Semana,No,3.9,34,15700,0,3
+D-0138,Costa,Hamburguesa,Cena,Fin de semana,No,1.5,29,9000,600,5
+D-0139,Norte,Hamburguesa,Cena,Semana,No,1.0,17,8100,900,5
+D-0140,Norte,Hamburguesa,Almuerzo,Semana,No,0.9,20,12300,0,5
+D-0141,Norte,Pizza,Cena,Semana,Sí,7.0,51,10400,1000,4
+D-0142,Sur,Pizza,Merienda,Semana,No,3.6,29,10700,1200,5
+D-0143,Sur,Hamburguesa,Almuerzo,Fin de semana,Sí,0.4,26,8400,600,5
+D-0144,Costa,Hamburguesa,Almuerzo,Semana,No,0.9,18,5800,0,5
+D-0145,Norte,Pizza,Almuerzo,Fin de semana,No,4.9,33,5900,300,5
+D-0146,Sur,Pizza,Cena,Semana,No,3.0,31,8900,800,5
+D-0147,Norte,Hamburguesa,Cena,Semana,No,0.5,20,6200,600,5
+D-0148,Costa,Sushi,Cena,Fin de semana,Sí,2.8,44,19300,1100,4
+D-0149,Centro,Sushi,Cena,Semana,No,3.6,29,20000,0,5
+D-0150,Costa,Sushi,Merienda,Semana,Sí,2.6,33,23600,0,3
+D-0151,Norte,Pizza,Almuerzo,Semana,No,5.0,35,9400,0,5
+D-0152,Sur,Pizza,Cena,Semana,No,0.4,19,16300,1600,5
+D-0153,Norte,Hamburguesa,Almuerzo,Semana,No,6.7,49,12600,1300,4
+D-0154,Norte,Sushi,Almuerzo,Semana,Sí,1.8,29,17100,1000,5
+D-0155,Norte,Hamburguesa,Cena,Semana,No,4.4,33,10800,0,5
+D-0156,Centro,Sushi,Cena,Fin de semana,No,3.3,36,12800,800,4
+D-0157,Centro,Sushi,Cena,Fin de semana,No,2.1,27,5900,700,5
+D-0158,Norte,Pizza,Cena,Fin de semana,No,3.3,30,12500,0,5
+D-0159,Norte,Vegano,Almuerzo,Fin de semana,No,0.6,16,11800,1200,5
+D-0160,Costa,Hamburguesa,Almuerzo,Semana,No,2.6,21,14300,900,5
+D-0161,Centro,Hamburguesa,Cena,Semana,Sí,3.5,45,10000,0,3
+D-0162,Sur,Pizza,Cena,Semana,Sí,3.4,41,8700,800,5
+D-0163,Norte,Vegano,Cena,Semana,No,2.2,15,8800,700,5
+D-0164,Sur,Vegano,Cena,Fin de semana,No,2.1,29,8400,700,5
+D-0165,Sur,Pizza,Merienda,Semana,Sí,2.0,23,9600,0,5
+D-0166,Norte,Hamburguesa,Almuerzo,Semana,No,0.5,14,5000,0,5
+D-0167,Sur,Pizza,Merienda,Semana,Sí,5.5,42,6500,600,4
+D-0168,Norte,Sushi,Cena,Semana,No,7.6,49,19500,1300,5
+D-0169,Sur,Hamburguesa,Almuerzo,Semana,Sí,3.7,35,4700,300,5
+D-0170,Centro,Pizza,Cena,Semana,No,1.1,18,5700,700,5
+D-0171,Sur,Sushi,Cena,Semana,No,3.2,37,12700,900,5
+D-0172,Sur,Hamburguesa,Cena,Semana,No,1.2,21,7600,800,5
+D-0173,Centro,Vegano,Almuerzo,Fin de semana,No,2.2,31,10300,0,5
+D-0174,Costa,Sushi,Almuerzo,Semana,No,2.0,20,19500,1900,5
+D-0175,Sur,Pizza,Almuerzo,Semana,No,4.8,34,9900,1100,5
+D-0176,Costa,Pizza,Cena,Semana,No,5.2,35,10900,700,4
+D-0177,Centro,Sushi,Cena,Semana,Sí,2.9,40,12700,700,4
+D-0178,Norte,Pizza,Almuerzo,Semana,No,4.2,31,9100,0,5
+D-0179,Centro,Pizza,Merienda,Fin de semana,No,0.6,17,7300,0,5
+D-0180,Centro,Vegano,Cena,Semana,No,1.0,56,9700,900,5
+D-0181,Centro,Sushi,Almuerzo,Semana,No,2.7,25,18000,1900,5
+D-0182,Centro,Pizza,Almuerzo,Semana,No,2.4,15,10500,1100,5
+D-0183,Costa,Pizza,Cena,Semana,Sí,1.4,26,5100,0,5
+D-0184,Centro,Pizza,Almuerzo,Fin de semana,No,2.6,22,6400,500,5
+D-0185,Sur,Pizza,Almuerzo,Semana,Sí,6.5,49,16500,0,4
+D-0186,Centro,Pizza,Cena,Semana,Sí,2.2,33,4900,0,5
+D-0187,Centro,Hamburguesa,Cena,Fin de semana,Sí,3.5,39,8700,600,4
+D-0188,Centro,Hamburguesa,Cena,Semana,No,7.1,44,6000,0,4
+D-0189,Sur,Pizza,Cena,Semana,Sí,4.5,42,8500,800,4
+D-0190,Norte,Sushi,Cena,Fin de semana,Sí,3.8,33,12700,0,5
+D-0191,Norte,Hamburguesa,Almuerzo,Semana,Sí,0.6,20,8700,700,5
+D-0192,Norte,Hamburguesa,Cena,Semana,No,1.6,31,6100,400,5
+D-0193,Centro,Sushi,Cena,Fin de semana,No,3.5,29,20700,0,3
+D-0194,Norte,Pizza,Cena,Fin de semana,No,2.0,24,17500,2100,5
+D-0195,Costa,Sushi,Cena,Semana,Sí,1.6,25,7200,0,5
+D-0196,Centro,Hamburguesa,Cena,Semana,Sí,0.3,26,6600,600,5
+D-0197,Sur,Hamburguesa,Almuerzo,Semana,No,2.0,17,5400,0,5
+D-0198,Centro,Pizza,Almuerzo,Semana,Sí,0.3,28,9400,800,5
+D-0199,Centro,Pizza,Cena,Semana,No,1.0,20,13800,1500,5
+D-0200,Norte,Hamburguesa,Cena,Semana,No,1.2,20,13000,0,4
+D-0201,Centro,Sushi,Cena,Semana,Sí,2.3,28,22400,1700,4
+D-0202,Costa,Hamburguesa,Almuerzo,Fin de semana,No,2.9,31,9200,800,5
+D-0203,Norte,Hamburguesa,Cena,Fin de semana,No,1.4,32,7200,500,4
+D-0204,Centro,Sushi,Almuerzo,Semana,No,4.9,33,21200,1200,4
+D-0205,Centro,Hamburguesa,Almuerzo,Fin de semana,No,1.0,26,7100,0,5
+D-0206,Centro,Pizza,Almuerzo,Semana,No,1.5,24,7100,0,5
+D-0207,Centro,Hamburguesa,Almuerzo,Fin de semana,Sí,5.5,47,8700,0,3
+D-0208,Norte,Vegano,Almuerzo,Semana,No,2.7,24,6900,0,5
+D-0209,Sur,Pizza,Almuerzo,Semana,No,1.3,15,8600,0,5
+D-0210,Costa,Hamburguesa,Cena,Semana,Sí,1.4,30,6400,700,5
+D-0211,Costa,Sushi,Cena,Semana,Sí,1.9,29,15600,1200,5
+D-0212,Centro,Hamburguesa,Cena,Semana,No,2.5,34,11400,700,5
+D-0213,Sur,Pizza,Cena,Semana,No,2.0,29,7700,500,5
+D-0214,Costa,Hamburguesa,Almuerzo,Fin de semana,No,3.5,57,9900,500,4
+D-0215,Centro,Pizza,Almuerzo,Semana,No,2.2,20,12100,0,5
+D-0216,Costa,Pizza,Almuerzo,Fin de semana,No,2.5,28,7200,700,5
+D-0217,Norte,Pizza,Cena,Fin de semana,No,2.3,35,8900,600,5
+D-0218,Sur,Pizza,Cena,Semana,No,0.7,21,8100,700,5
+D-0219,Norte,Hamburguesa,Cena,Semana,No,1.5,28,14800,1600,4
+D-0220,Sur,Vegano,Almuerzo,Semana,No,2.9,22,8700,800,4
+D-0221,Norte,Pizza,Almuerzo,Semana,No,4.2,31,9400,900,5
+D-0222,Centro,Vegano,Merienda,Fin de semana,No,3.9,35,6600,400,5
+D-0223,Sur,Pizza,Cena,Fin de semana,No,5.0,43,6900,500,4
+D-0224,Costa,Sushi,Almuerzo,Fin de semana,No,3.1,31,18100,0,4
+D-0225,Norte,Hamburguesa,Cena,Semana,Sí,6.1,53,7900,500,4
+D-0226,Norte,Sushi,Cena,Semana,No,6.8,46,18900,0,4
+D-0227,Costa,Vegano,Merienda,Fin de semana,No,2.4,31,10300,700,4
+D-0228,Norte,Sushi,Cena,Semana,Sí,8.8,58,33200,2600,4
+D-0229,Costa,Pizza,Cena,Semana,No,2.4,30,8400,0,5
+D-0230,Norte,Vegano,Almuerzo,Semana,No,1.4,16,13400,0,5
+D-0231,Norte,Pizza,Almuerzo,Fin de semana,Sí,3.6,36,7300,0,5
+D-0232,Norte,Sushi,Merienda,Semana,Sí,2.2,30,13300,1500,5
+D-0233,Centro,Pizza,Almuerzo,Semana,No,5.8,42,5700,500,5
+D-0234,Centro,Pizza,Merienda,Fin de semana,No,4.9,36,20000,1500,5
+D-0235,Centro,Pizza,Cena,Fin de semana,No,5.0,43,4800,500,5
+D-0236,Centro,Hamburguesa,Cena,Fin de semana,No,0.9,31,8900,600,5
+D-0237,Norte,Pizza,Cena,Semana,No,2.8,26,7900,400,5
+D-0238,Norte,Hamburguesa,Cena,Semana,No,5.3,44,10900,1000,4
+D-0239,Centro,Pizza,Cena,Semana,No,2.6,23,7700,600,5
+D-0240,Centro,Hamburguesa,Almuerzo,Semana,No,1.4,10,15200,1100,5
+D-0241,Costa,Vegano,Cena,Semana,No,4.4,37,14200,0,5
+D-0242,Centro,Hamburguesa,Merienda,Fin de semana,No,2.2,24,10100,700,4
+D-0243,Norte,Hamburguesa,Cena,Fin de semana,No,2.2,28,10000,900,5
+D-0244,Costa,Sushi,Almuerzo,Fin de semana,No,2.2,15,20900,1800,5
+D-0245,Centro,Vegano,Almuerzo,Fin de semana,No,1.6,25,11600,0,5
+D-0246,Norte,Pizza,Almuerzo,Semana,No,1.0,14,14800,1200,5
+D-0247,Costa,Pizza,Merienda,Semana,No,4.1,24,12000,1300,5
+D-0248,Centro,Pizza,Cena,Fin de semana,Sí,1.9,35,9100,1000,4
+D-0249,Centro,Pizza,Almuerzo,Semana,No,1.9,15,10500,1200,5
+D-0250,Costa,Hamburguesa,Cena,Fin de semana,No,0.9,22,9300,700,5
+D-0251,Sur,Sushi,Cena,Fin de semana,Sí,5.3,46,22000,0,4
+D-0252,Centro,Sushi,Almuerzo,Semana,Sí,2.3,32,14300,0,5
+D-0253,Norte,Pizza,Cena,Semana,No,0.6,19,9600,700,5
+D-0254,Centro,Pizza,Cena,Fin de semana,Sí,4.0,50,6300,0,3
+D-0255,Costa,Hamburguesa,Almuerzo,Fin de semana,No,3.0,25,10700,1100,5
+D-0256,Costa,Sushi,Cena,Semana,No,1.9,20,16700,0,5
+D-0257,Centro,Hamburguesa,Cena,Semana,No,0.7,28,7200,0,5
+D-0258,Norte,Hamburguesa,Cena,Semana,Sí,1.8,25,14700,1700,5
+D-0259,Centro,Pizza,Almuerzo,Fin de semana,No,3.7,37,9400,0,4
+D-0260,Norte,Hamburguesa,Almuerzo,Semana,No,4.0,24,6200,0,4
+D-0261,Sur,Hamburguesa,Cena,Fin de semana,No,1.0,29,12400,1400,5
+D-0262,Sur,Pizza,Cena,Fin de semana,No,2.9,30,8800,0,4
+D-0263,Centro,Hamburguesa,Almuerzo,Fin de semana,No,2.8,35,3500,300,5
+D-0264,Norte,Sushi,Almuerzo,Semana,No,2.8,33,17200,1300,4
+D-0265,Norte,Hamburguesa,Almuerzo,Semana,No,4.4,35,8700,600,5
+D-0266,Norte,Hamburguesa,Cena,Semana,No,1.2,24,9000,700,5
+D-0267,Sur,Pizza,Cena,Fin de semana,No,3.1,33,8700,1000,5
+D-0268,Sur,Pizza,Almuerzo,Semana,No,2.7,27,7300,600,5
+D-0269,Norte,Pizza,Cena,Semana,No,1.8,34,9600,0,3
+D-0270,Norte,Pizza,Merienda,Semana,Sí,3.5,31,5600,0,3
+D-0271,Centro,Pizza,Almuerzo,Semana,Sí,4.9,34,8800,800,5
+D-0272,Norte,Vegano,Almuerzo,Semana,No,1.5,27,13400,1100,4
+D-0273,Costa,Sushi,Almuerzo,Semana,No,1.1,16,20900,0,5
+D-0274,Norte,Hamburguesa,Almuerzo,Fin de semana,No,7.7,52,7500,900,4
+D-0275,Sur,Sushi,Almuerzo,Semana,Sí,6.7,47,27600,3200,5
+D-0276,Sur,Pizza,Almuerzo,Semana,Sí,5.1,41,10200,1100,4
+D-0277,Sur,Hamburguesa,Almuerzo,Fin de semana,Sí,2.6,32,7700,0,4
+D-0278,Costa,Hamburguesa,Almuerzo,Semana,No,0.3,13,9200,900,4
+D-0279,Centro,Vegano,Merienda,Fin de semana,No,3.2,22,8400,0,5
+D-0280,Norte,Hamburguesa,Cena,Semana,No,1.4,21,11400,800,5
+D-0281,Costa,Pizza,Cena,Fin de semana,No,3.6,33,7000,600,5
+D-0282,Norte,Pizza,Cena,Fin de semana,No,1.2,32,7500,800,5
+D-0283,Costa,Pizza,Almuerzo,Semana,Sí,1.3,22,6600,800,5
+D-0284,Centro,Sushi,Cena,Fin de semana,Sí,5.2,50,12100,0,3
+D-0285,Sur,Vegano,Almuerzo,Semana,Sí,1.7,18,9500,600,5
+D-0286,Norte,Pizza,Almuerzo,Semana,Sí,1.3,24,16200,0,4
+D-0287,Norte,Sushi,Cena,Semana,No,2.8,66,16600,0,3
+D-0288,Costa,Pizza,Cena,Semana,Sí,5.9,49,13200,0,5
+D-0289,Centro,Sushi,Cena,Semana,No,3.8,37,15700,1200,4
+D-0290,Norte,Sushi,Almuerzo,Fin de semana,Sí,1.8,29,20500,2300,5
+D-0291,Centro,Hamburguesa,Cena,Fin de semana,No,2.5,29,6400,0,5
+D-0292,Norte,Hamburguesa,Cena,Semana,No,0.8,25,6200,500,5
+D-0293,Costa,Pizza,Almuerzo,Semana,No,1.0,15,16200,1000,5
+D-0294,Norte,Vegano,Cena,Fin de semana,No,4.0,33,11500,0,4
+D-0295,Sur,Pizza,Cena,Fin de semana,No,1.8,28,5800,400,5
+D-0296,Centro,Pizza,Cena,Fin de semana,No,0.9,23,11100,700,5
+D-0297,Costa,Sushi,Merienda,Fin de semana,No,0.8,24,14500,1200,5
+D-0298,Costa,Hamburguesa,Cena,Semana,No,1.1,25,8000,600,5
+D-0299,Sur,Hamburguesa,Cena,Fin de semana,Sí,1.0,25,11200,1000,5
+D-0300,Centro,Hamburguesa,Cena,Semana,No,0.9,23,6000,300,5
+D-0301,Sur,Pizza,Almuerzo,Semana,No,1.6,13,13400,0,5
+D-0302,Centro,Pizza,Almuerzo,Semana,No,2.6,24,10000,1000,5
+D-0303,Norte,Vegano,Cena,Fin de semana,No,2.2,33,8900,600,5
+D-0304,Centro,Sushi,Merienda,Fin de semana,No,1.0,18,10300,1200,5
+D-0305,Centro,Hamburguesa,Cena,Semana,No,3.1,28,14800,900,5
+D-0306,Centro,Hamburguesa,Merienda,Fin de semana,No,3.3,34,7800,700,5
+D-0307,Centro,Pizza,Almuerzo,Semana,Sí,1.9,25,6100,0,5
+D-0308,Costa,Pizza,Merienda,Semana,No,2.3,17,8800,400,5
+D-0309,Centro,Hamburguesa,Cena,Fin de semana,No,1.5,35,10000,0,5
+D-0310,Costa,Pizza,Cena,Semana,No,4.9,42,11100,0,4
+D-0311,Centro,Pizza,Almuerzo,Semana,No,2.5,25,14400,0,5
+D-0312,Centro,Pizza,Almuerzo,Semana,Sí,0.9,24,10900,0,5
+D-0313,Centro,Hamburguesa,Merienda,Semana,No,5.2,39,8500,0,5
+D-0314,Costa,Vegano,Cena,Fin de semana,No,1.9,30,20100,1200,5
+D-0315,Costa,Hamburguesa,Cena,Fin de semana,No,3.2,38,16000,1700,5
+D-0316,Centro,Pizza,Almuerzo,Semana,No,1.6,21,6600,400,4
+D-0317,Costa,Vegano,Almuerzo,Semana,No,3.4,24,13700,1100,5
+D-0318,Centro,Pizza,Almuerzo,Semana,No,3.7,33,7700,400,5
+D-0319,Centro,Hamburguesa,Cena,Fin de semana,No,1.3,28,13700,700,5
+D-0320,Sur,Hamburguesa,Almuerzo,Fin de semana,No,3.3,27,6500,400,5
+D-0321,Centro,Pizza,Almuerzo,Semana,No,1.5,17,10100,1200,5
+D-0322,Costa,Pizza,Cena,Semana,No,2.1,16,14900,1600,5
+D-0323,Norte,Pizza,Cena,Semana,Sí,1.7,23,10200,1100,5
+D-0324,Sur,Sushi,Cena,Semana,No,3.7,26,21400,1700,4
+D-0325,Sur,Hamburguesa,Almuerzo,Semana,No,3.9,32,7000,0,5
+D-0326,Centro,Sushi,Merienda,Semana,No,4.8,36,10600,500,5
+D-0327,Sur,Hamburguesa,Cena,Semana,No,2.1,31,6100,700,5
+D-0328,Costa,Hamburguesa,Almuerzo,Fin de semana,No,2.7,30,10500,0,5
+D-0329,Sur,Vegano,Merienda,Semana,No,5.1,42,8400,900,4
+D-0330,Centro,Hamburguesa,Almuerzo,Fin de semana,No,2.0,23,13600,1300,5
+D-0331,Costa,Pizza,Merienda,Fin de semana,No,7.2,43,8300,0,5
+D-0332,Sur,Sushi,Almuerzo,Fin de semana,No,3.1,25,23100,2500,5
+D-0333,Norte,Pizza,Cena,Semana,No,1.8,26,10300,1200,4
+D-0334,Sur,Hamburguesa,Cena,Semana,No,2.3,24,6300,500,4
+D-0335,Centro,Hamburguesa,Almuerzo,Fin de semana,No,4.9,33,8900,600,4
+D-0336,Norte,Hamburguesa,Merienda,Fin de semana,No,6.2,40,10100,800,4
+D-0337,Norte,Sushi,Cena,Semana,No,1.5,24,17900,2000,5
+D-0338,Centro,Sushi,Almuerzo,Semana,No,0.8,10,14900,0,5
+D-0339,Sur,Vegano,Cena,Semana,No,2.6,28,14400,1100,5
+D-0340,Centro,Sushi,Almuerzo,Semana,Sí,1.5,24,20500,1900,5
+D-0341,Centro,Sushi,Merienda,Fin de semana,No,5.5,47,20500,2300,5
+D-0342,Costa,Vegano,Cena,Fin de semana,No,2.2,31,8100,800,5
+D-0343,Sur,Hamburguesa,Cena,Fin de semana,Sí,7.3,52,4600,500,4
+D-0344,Centro,Pizza,Cena,Semana,No,3.8,34,11000,900,5
+D-0345,Sur,Pizza,Almuerzo,Semana,Sí,3.1,32,7200,800,5
+D-0346,Costa,Hamburguesa,Cena,Semana,No,3.9,28,7400,0,4
+D-0347,Costa,Pizza,Almuerzo,Semana,Sí,1.9,12,8600,0,5
+D-0348,Sur,Pizza,Cena,Semana,Sí,0.5,29,10200,600,5
+D-0349,Norte,Hamburguesa,Cena,Semana,No,1.8,24,5100,400,5
+D-0350,Sur,Hamburguesa,Merienda,Semana,Sí,4.0,32,8400,700,4
+D-0351,Sur,Sushi,Merienda,Semana,No,2.0,20,23200,1700,5
+D-0352,Centro,Hamburguesa,Cena,Semana,Sí,1.1,33,5600,300,4
+D-0353,Sur,Sushi,Merienda,Fin de semana,Sí,4.3,48,14100,0,4
+D-0354,Norte,Pizza,Almuerzo,Semana,No,0.5,12,14300,1600,5
+D-0355,Norte,Sushi,Cena,Semana,No,1.7,31,19800,1600,5
+D-0356,Sur,Sushi,Almuerzo,Fin de semana,Sí,4.0,39,18600,1200,5
+D-0357,Centro,Pizza,Cena,Semana,No,3.5,32,9700,0,5
+D-0358,Centro,Hamburguesa,Cena,Semana,No,3.5,31,5700,400,5
+D-0359,Costa,Hamburguesa,Merienda,Fin de semana,No,3.5,31,9000,700,4
+D-0360,Centro,Pizza,Merienda,Semana,No,1.3,17,6900,600,5
+D-0361,Centro,Sushi,Almuerzo,Semana,Sí,1.5,21,16000,0,4
+D-0362,Centro,Vegano,Almuerzo,Fin de semana,No,1.5,22,8200,800,5
+D-0363,Norte,Sushi,Merienda,Semana,Sí,3.1,27,10800,900,5
+D-0364,Sur,Hamburguesa,Almuerzo,Semana,No,1.9,23,8700,800,5
+D-0365,Centro,Sushi,Almuerzo,Fin de semana,No,2.8,25,21200,0,5
+D-0366,Centro,Vegano,Almuerzo,Fin de semana,Sí,1.4,30,8800,800,4
+D-0367,Centro,Vegano,Cena,Semana,No,1.8,24,10900,600,4
+D-0368,Centro,Pizza,Almuerzo,Semana,No,2.5,15,11500,900,4
+D-0369,Sur,Hamburguesa,Cena,Semana,No,3.3,36,10200,900,5
+D-0370,Costa,Pizza,Cena,Semana,No,3.3,32,6300,700,5
+D-0371,Costa,Vegano,Cena,Semana,No,0.4,18,8700,700,5
+D-0372,Norte,Pizza,Almuerzo,Semana,No,1.9,19,10300,500,5
+D-0373,Centro,Pizza,Cena,Fin de semana,No,3.1,42,9300,900,4
+D-0374,Norte,Hamburguesa,Almuerzo,Semana,No,3.7,26,14800,1700,5
+D-0375,Norte,Pizza,Cena,Semana,No,3.2,35,11000,1200,5
+D-0376,Norte,Hamburguesa,Merienda,Fin de semana,Sí,3.4,37,6700,700,5
+D-0377,Sur,Hamburguesa,Almuerzo,Fin de semana,No,2.3,20,10700,700,5
+D-0378,Sur,Sushi,Merienda,Fin de semana,Sí,8.4,61,21600,0,4
+D-0379,Costa,Hamburguesa,Almuerzo,Semana,No,1.7,12,10600,1000,5
+D-0380,Norte,Sushi,Almuerzo,Fin de semana,No,3.2,31,18000,1600,4
+D-0381,Centro,Hamburguesa,Cena,Semana,No,6.2,45,5700,0,4
+D-0382,Costa,Sushi,Almuerzo,Fin de semana,Sí,1.4,68,15100,0,2
+D-0383,Costa,Pizza,Cena,Semana,No,2.6,25,11000,800,5
+D-0384,Centro,Sushi,Cena,Fin de semana,Sí,2.6,44,13700,1500,5
+D-0385,Centro,Vegano,Cena,Fin de semana,No,4.4,47,9300,700,5
+D-0386,Sur,Pizza,Cena,Fin de semana,No,0.9,21,10600,800,5
+D-0387,Costa,Sushi,Cena,Fin de semana,No,5.4,42,12700,800,5
+D-0388,Costa,Sushi,Cena,Fin de semana,No,4.3,46,11700,1300,4
+D-0389,Centro,Pizza,Almuerzo,Semana,No,3.0,23,8800,1000,5
+D-0390,Centro,Hamburguesa,Almuerzo,Semana,Sí,1.6,29,8500,0,5
+D-0391,Norte,Pizza,Cena,Semana,No,1.4,18,11900,1300,5
+D-0392,Sur,Hamburguesa,Cena,Semana,No,1.7,21,8300,0,5
+D-0393,Sur,Vegano,Cena,Fin de semana,No,0.8,26,7200,0,4
+D-0394,Sur,Hamburguesa,Merienda,Fin de semana,No,4.4,37,10000,500,4
+D-0395,Norte,Hamburguesa,Almuerzo,Semana,No,4.1,23,6800,800,5
+D-0396,Centro,Sushi,Cena,Semana,No,2.0,21,19100,1200,5
+D-0397,Sur,Hamburguesa,Almuerzo,Semana,No,1.0,19,7300,500,5
+D-0398,Sur,Pizza,Merienda,Semana,No,5.4,40,10900,900,5
+D-0399,Costa,Vegano,Cena,Fin de semana,No,0.9,27,11200,800,5
+D-0400,Centro,Pizza,Merienda,Fin de semana,Sí,1.2,29,8700,1000,5
